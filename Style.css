@@ -1,0 +1,63 @@
+body{
+  background-image: url('background.png');
+  background-size: contain;
+  color: white;
+  background-repeat: no-repeat;
+  background-size: 380px 680px;
+  }
+.nav{
+  background: orange;
+  height: 50px;
+}
+
+.nav div{
+  display: inline-block;
+  position: absolute;
+  font-size: 22px;
+  color: white;
+  left: 13px;
+  padding: 10px 0px 0px 0px;
+ }
+ 
+ .nav ul{
+   position:absolute;
+   right: 10px;
+ }
+ 
+ .nav ul li{
+   display: inline-block;
+   margin: 2px;
+ }
+ 
+ .nav ul li a{
+   color: white;
+   font-size: 12px;
+ }
+ 
+ #intro{
+   text-align: center;
+ }
+ 
+ #intro #intor{
+   padding: 50px 0px 0px 0px;
+ }
+ 
+ footer{
+   text-align: center;
+   background-color: black;
+   color: white;
+   height: 120px;
+ }
+ 
+ li{
+   display: inline-block;
+ }
+ 
+ a{
+   color: white;
+   margin: 2px;
+ }
+ 
+ ul{
+   padding: 5px;
+ }
